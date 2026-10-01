@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 28
-  productGUID: 46ddcb278c76fda4eb170e8ba42e8dac
+  productGUID: 13dbfbe1ffe82c84d896a867e472194c
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: Autumn
+  productName: autumn
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -608,14 +608,14 @@ PlayerSettings:
   editorAssembliesCompatibilityLevel: 1
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: Autumn
+  metroPackageName: autumn
   metroPackageVersion: 
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
   metroCertificateIssuer: 
   metroCertificateNotAfter: 0000000000000000
-  metroApplicationDescription: Autumn
+  metroApplicationDescription: autumn
   wsaImages: {}
   metroTileShortName: 
   metroTileShowName: 0
@@ -686,10 +686,10 @@ PlayerSettings:
   captureStartupLogs: {}
   activeInputHandler: 1
   windowsGamepadBackendHint: 0
-  cloudProjectId: b747643b-dbc8-4ff3-948b-fe1f3e2dc237
+  cloudProjectId: d04a9074-6071-4e35-9886-a5365c985757
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: Autumn
+  projectName: autumn
   organizationId: hmj2622023mo7wpqau
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0

@@ -6,8 +6,26 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
+    path: Assets/Scenes/gamescene1.unity
     guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/Scenes/HomeScene.unity
+    guid: 499ddaeffbdc293429b938fb4c4aaaef
+  - enabled: 1
+    path: Assets/Scenes/WolfScene.unity
+    guid: 2c73ee3edf2930d4faa0d9d7cd087b71
+  - enabled: 1
+    path: Assets/Scenes/WolfOverScene.unity
+    guid: 6760acdbc1c616f48ad27ab4fa9c7419
+  - enabled: 1
+    path: Assets/Scenes/MummyScene.unity
+    guid: c1dad09b32b791446b0b8d7c99ebbc41
+  - enabled: 1
+    path: Assets/Scenes/MummyOverScene.unity
+    guid: 57f6d56f5027b6941a77233ce1638492
+  - enabled: 1
+    path: Assets/Scenes/ClearScene.unity
+    guid: 87140655f0d0e464bb12523d3e1a229f
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0
